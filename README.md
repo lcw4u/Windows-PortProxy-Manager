@@ -20,7 +20,7 @@ Windows PortProxy Manager 是一个用于管理Windows系统端口转发规则�
 2. 安装 Tkinter 库（通常默认安装）
 
 ## GUI 界面
-![img](https://private-user-images.githubusercontent.com/131836350/342560509-7efa79cb-9a5f-4262-bb25-d95d4e46bb30.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkyODM0NDIsIm5iZiI6MTcxOTI4MzE0MiwicGF0aCI6Ii8xMzE4MzYzNTAvMzQyNTYwNTA5LTdlZmE3OWNiLTlhNWYtNDI2Mi1iYjI1LWQ5NWQ0ZTQ2YmIzMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyNVQwMjM5MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZmJkZTlmZGJjYjFjYjZkZGMwMzJkNTJjN2Y5MzQ1Nzg0MDQzYTFmYWM5MjhlZWE5NzZmZjhmMmQzOGQwZDM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ccR0eIy3JhGJJWi1JpE0UyIu0u8T9G9Ty_BWpT5Msmw)
+![fb26a54234f54bd2401b532d2a05226f.png](https://s1.imagehub.cc/images/2024/07/21/fb26a54234f54bd2401b532d2a05226f.png)
 
 - **显示端口转发**：点击“显示端口转发”按钮，查看当前所有的端口转发规则
 - **添加端口转发**：在“监听端口”和“转发地址”输入框中分别输入相应的值，然后点击“添加”
@@ -30,6 +30,7 @@ Windows PortProxy Manager 是一个用于管理Windows系统端口转发规则�
 
 - 该工具需要以管理员权限运行，以便修改系统网络配置。
 - 请确保输入的端口号和IP地址格式正确。
+- 需要设置**防火墙**开放相对应的端口。
 
 ## 贡献
 
